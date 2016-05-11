@@ -1,6 +1,25 @@
 Changelog for Bolt
 ==================
 
+Bolt 3.0.0
+----------
+
+Released 2016-05-10. Notable changes:
+
+ - Fixed: Field prefix and suffix visual tweak. [#5296](https://github.com/bolt/bolt/pull/5296)
+ - Ficed: Only regex match from beginning of multi-line for inserting assets. [#5294](https://github.com/bolt/bolt/pull/5294)
+ - Update: Bump node-sass to 3.7.0 [#5293](https://github.com/bolt/bolt/pull/5291)
+
+Bolt 3.0.0 RC 3
+---------------
+
+Released 2016-05-09. Notable changes:
+
+ - Fixed: `FieldValue` initialisation of `json_array`. [#5291](https://github.com/bolt/bolt/pull/5291)
+ - Fixed: Change `YAMLupdater` regex to be non-greedy. [#5290](https://github.com/bolt/bolt/pull/5290)
+ - Fixed: Finish Translation keywords. [#5287](https://github.com/bolt/bolt/pull/5287)
+ - Fixed: Tweak exception classes thrown for access control [#5285](https://github.com/bolt/bolt/pull/5285)
+
 Bolt 3.0.0 RC 2
 ---------------
 

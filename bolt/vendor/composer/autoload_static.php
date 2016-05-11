@@ -110,6 +110,7 @@ class ComposerStaticIniteb9b5fbf0921d06558d022e5a9ec3163
         array (
             'Composer\\Spdx\\' => 14,
             'Composer\\Semver\\' => 16,
+            'Composer\\CaBundle\\' => 18,
             'Composer\\' => 9,
             'Cocur\\Slugify\\' => 14,
             'Carbon\\' => 7,
@@ -330,6 +331,10 @@ class ComposerStaticIniteb9b5fbf0921d06558d022e5a9ec3163
         'Composer\\Semver\\' => 
         array (
             0 => __DIR__ . '/..' . '/composer/semver/src',
+        ),
+        'Composer\\CaBundle\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/composer/ca-bundle/src',
         ),
         'Composer\\' => 
         array (
